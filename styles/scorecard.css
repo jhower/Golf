@@ -1,0 +1,267 @@
+.img{
+display: inline;
+height: 125px;
+width: 4%;
+}
+
+.form, .h2, .black, .lengthblackfront, .lengthblackback, .black9holesfront, .black9holesback, .black18total, .red, .lengthredfront, .lengthredback, .red9holesfront, .red9holesback, .red18total, .blue, .lengthbluefront, .lengthblueback, .blue9holesfront, .blue9holesback, .blue18total, .white, .lengthwhitefront, .lengthwhiteback, .white9holesfront, .white9holesback, .white18total, .netscore, .handicap, .menhandy, .handicap, .handyBack, .handytotal, .handynum, .handyFront, .handynumOne, .handynumTwo, .handynumThree, .handynumFour, .handynumFive, .handynumSix, .handynumSeven, .handynumEight, .handynumNine, .handynumTen, .handynumEleven, .handynumTwelve, .handynumThirteen, .handynumFourteen, .handynumFifteen, .handynumSixteen, .handynumSeventeen, .handynumEighteen, .handytotal, .player, .form, .hole, .holenum, .par, .parfront, .parback, .partotal {
+display: inline;
+padding-color: transparent;
+}
+
+.form, .h2, .black, .lengthblackfront, .lengthblackback, .black9holesfront, .black9holesback, .black18total, .red, .lengthredfront, .lengthredback, .red9holesfront, .red9holesback, .red18total, .blue, .lengthbluefront, .lengthblueback, .blue9holesfront, .blue9holesback, .blue18total, .netscore, .handicap, .menhandy, .handicap, .handyBack, .handytotal, .handynum, .handyFront, .handynumOne, .handynumTwo, .handynumThree, .handynumFour, .handynumFive, .handynumSix, .handynumSeven, .handynumEight, .handynumNine, .handynumTen, .handynumEleven, .handynumTwelve, .handynumThirteen, .handynumFourteen, .handynumFifteen, .handynumSixteen, .handynumSeventeen, .handynumEighteen, .handytotal, .player, .form, .hole, .holenum, .par, .parfront, .parback, .partotal {
+color: white;
+}
+
+.black, .lengthblackfront, .lengthblackback, .black9holesfront, .black9holesback, .black18total{
+background-color: black;
+}
+
+.red, .lengthredfront, .lengthredback, .red9holesfront, .red9holesback, .red18total{
+background-color: #AC0B1B;
+}
+
+.blue, .lengthbluefront, .lengthblueback, .blue9holesfront, .blue9holesback, .blue18total{
+background-color: #2A4F9A;
+}
+
+.netscore, .handicap, .menhandy, .handicap, .handyBack, .handytotal, .handynum, .handyFront, .handynumOne, .handynumTwo, .handynumThree, .handynumFour, .handynumFive, .handynumSix, .handynumSeven, .handynumEight, .handynumNine, .handynumTen, .handynumEleven, .handynumTwelve, .handynumThirteen, .handynumFourteen, .handynumFifteen, .handynumSixteen, .handynumSeventeen, .handynumEighteen, .handytotal, .hole, .holenum, .par, .parfront, .parback, .partotal {
+background-color: #185316;
+}
+
+.white, .lengthwhitefront, .lengthwhiteback, .white9holesfront, .white9holesback, .white18total, .player{
+background-color: white;
+color: black;
+}
+
+.h2 {
+border: 1px solid black;
+}
+
+.black {
+padding-right: 16px;
+}
+.lengthblackfront{
+padding-right: 10px;
+padding-left: 10px;
+
+}
+.lengthblackback{
+padding-right: 10px;
+padding-left: 10px;
+}
+.black9holesfront{
+padding-left: 4px;
+padding-right: 4px;
+}
+.black9holesback{
+padding-right: 4px;
+padding-left: 4px;
+}
+.black18total{
+padding-right: 34px;
+padding-left: 34px;
+
+}
+
+.red {
+padding-right: 34px;
+}
+.lengthredfront{
+padding-right: 4px;
+padding-left: 4px;
+}
+.lengthredback{
+padding-right: 10px;
+padding-left: 10px;
+}
+.red9holesfront{
+padding-left: 4px;
+padding-right: 4px;
+}
+.red9holesback{
+padding-right: 5px;
+padding-left: 5px;
+}
+.red18total{
+padding-right: 33px;
+padding-left: 33px;
+}
+.blue {
+padding-right: 28px;
+}
+.lengthbluefront{
+padding-right: 4px;
+padding-left: 4px;
+}
+.lengthblueback{
+padding-right: 10px;
+padding-left: 10px;
+}
+.blue9holesfront{
+padding-left: 4px;
+padding-right: 4px;
+}
+.blue9holesback{
+padding-right: 4px;
+padding-left: 4px;
+}
+.blue18total{
+padding-right: 34px;
+padding-left: 34px;
+}
+
+.white{
+padding-right: 14px;
+}
+.lengthwhitefront{
+padding-right: 6px;
+padding-left: 6px;
+}
+.lengthwhiteback{
+padding-right: 10px;
+padding-left: 10px;
+}
+.white9holesfront{
+padding-left: 4px;
+padding-right: 4px;
+}
+.white9holesback{
+padding-right: 4px;
+padding-left: 4px;
+}
+.white18total{
+padding-right: 34px;
+padding-left: 34px;
+}
+
+.menhandy {
+padding-right: 19px;
+}
+.handynumOne{
+padding-right: 10px;
+padding-left: 10px;
+}
+.handynumTwo{
+padding-right: 10px;
+padding-left: 10px;
+}
+.handynumThree{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumFour{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumFive{
+padding-right: 17px;
+padding-left: 17px;
+}
+.handynumSix{
+padding-right: 15px;
+padding-left: 15px;
+}
+.handynumSeven{
+padding-right: 11px;
+padding-left: 11px;
+}
+.handynumEight{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumNine{
+padding-right: 10px;
+padding-left: 10px;
+}
+.handyFront{
+color: #185316;
+padding-right: 12px;
+padding-left: 12px;
+}
+.handynumTen{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumEleven{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumTwelve{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumThirteen{
+padding-right: 22px;
+padding-left: 22px;
+}
+.handynumFourteen{
+padding-right: 17px;
+padding-left: 17px;
+}
+.handynumFifteen{
+padding-right: 21px;
+padding-left: 22px;
+}
+.handynumSixteen{
+padding-right: 16px;
+padding-left: 16px;
+}
+.handynumSeventeen{
+padding-right: 22px;
+padding-left: 22px;
+}
+.handynumEighteen{
+padding-right: 22px;
+padding-left: 22px;
+}
+.handyBack{
+color: #185316;
+padding-right: 8x;
+padding-left: 10px;
+}
+.handytotal{
+padding-right: 52px;
+padding-left: 53px;
+}
+
+.player {
+display: inline;
+}
+
+.hole {
+padding-right: 18px;
+}
+.holenum{
+border: 10px;
+padding-right: 12px;
+padding-left: 12px;
+}
+.content {
+width: 400px;
+float: right;
+}
+.par{
+padding-right: 29px;
+}
+.parfront{
+padding-right: 6px;
+padding-left: 7px
+}
+.parback{
+padding-right: 24px;
+padding-left: 20px;
+}
+.partotal{
+padding-right: 20px;
+padding-left: 20px;
+}
+.form{
+padding-right: 4px;
+padding-left: 4px;
+align: center;
+}
+.sum {
+padding-right: 50px;
+padding-left: 50px;
+}

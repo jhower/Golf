@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.album-view-song-list {
+    width: 90%;
+    margin: 1.5rem auto;
+    font-weight: 300;
+    font-size: 1em;
+}
+
+.album-view-song-item {
+    height: 1rem;
+}
+
+.song-item-number {
+    width: 2%;
+}
+
+.song-item-title {
+    width: 2%;
+}
+
+.song-item-duration {
+    width: 2%;
+}
+.play-count {
+  width: 2%;
+}
